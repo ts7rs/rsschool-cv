@@ -3,7 +3,7 @@
 # Taisia Kataeva #
 ## SMM Marketing & Project Managment ##
 
-### Personal details: ###
+### Personal information: ###
 
 **Date of Birth:** the 25th of January, 1986  
 **Age:** 35 y.o.  
@@ -62,7 +62,7 @@ February 2005 — September 2013
 **HR Management**
 
 2008 - 2010 Computer Academy STEP (Zaporozhye branch). 
-**Web and Computer Graphics**
+**Web Design and Computer Graphics**
 
 2016 - 2018 Zaporozhye National University. 
 **Law**
